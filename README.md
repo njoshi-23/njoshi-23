@@ -6,9 +6,10 @@
 
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joshinikhil15#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/joshinikhil15#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/joshinikhil15#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/joshinikhil15#gh-dark-mode-only)
+
+[linkedin]: https://linkedin.com/in/joshinikhil15
 
 
 
