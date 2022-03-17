@@ -21,23 +21,28 @@
 [<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="ANSYS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" style="padding-right:10px;" />][]
+
+<br />
+
 [<img align="left" alt="SolidWorks" width="26px" src="https://seekvectorlogo.net/wp-content/uploads/2018/07/solidworks-vector-logo.png" style="padding-right:10px;" />][]
+
+<br />
+
 [<img align="left" alt="COMSOL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg" style="padding-right:10px;" />][]
+
+<br />
+
 [<img align="left" alt="MS Office" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" style="padding-right:10px;" />][]
+
+<br />
+
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][]
+
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />][]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][]
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nikhil's GitHub Stats" src=https://github-readme-stats.vercel.app/api?username=njoshi-23&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 />
-
-</details>
-
-[linkedin]: https://linkedin.com/in/joshinikhil15
 
 
