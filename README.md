@@ -4,9 +4,9 @@
 
 
 ## 🚀 About Me
-I'm a gradauate student pursuing my Masters in mechanical engineering @ Arizona State University. 
+I'm a Mechanical Engineer, recently gradauated with a Masters in mechanical engineering from Arizona State University. 
 
-Having completed my undergraduate studies in mechanical engineering, I have strong technical skills in engineering and statistics. 
+Having completed my undergraduate and graduate studies in mechanical engineering, I have strong technical skills in engineering and statistics. 
 
 As an engineering major I am interested in computer aided designing and manufacturing processes. As such I have completed a large amount of relevant coursework, worked on numerous different projects related to design and finite element analysis.
 
