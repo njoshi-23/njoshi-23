@@ -11,9 +11,9 @@ Having completed my undergraduate and graduate studies in mechanical engineering
 As an engineering major I am interested in computer aided designing and manufacturing processes. As such I have completed a large amount of relevant coursework, worked on numerous different projects related to design and finite element analysis.
 
 
-👩‍💻 I'm currently working on - Data science project -Heart disease classification 
+👩‍💻 I'm currently looking for full time entry-level opportunities 
 
-🧠 I'm currently learning - HTML5, Web Development and Machine learning
+🧠 Interested in HTML5, Web development and ML concepts
 
 📫 How to reach me - joshi.nikhil15@outlook.com
 
