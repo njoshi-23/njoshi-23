@@ -24,16 +24,9 @@ As an engineering major I am interested in computer aided designing and manufact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshinikhil15
 )
 ## 🛠 Skills
-Minitab, 
-JMP Pro, 
-Origin, 
-MATLAB, 
-Python, 
-Abaqus, 
-Solidworks, 
-CREO Parametric, 
-Ansys FLUENT/WORKBENCH, 
-COMSOL, 
-Siemens Nx, 
-Microsoft Office
+Statistical tools - Minitab, JMP Pro, Origin, 
+Programming tools - MATLAB, Python, 
+Analysis tools - Abaqus, Ansys FLUENT/WORKBENCH, COMSOL
+CAD tools - Solidworks, CREO Parametric, Siemens Nx 
+Misc. Tools - Microsoft Office
 
