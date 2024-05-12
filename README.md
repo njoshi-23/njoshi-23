@@ -13,9 +13,9 @@ As an engineering major I am interested in computer aided designing and manufact
 
 👩‍💻 I'm currently looking for full time entry-level opportunities 
 
-🧠 Interested in HTML5, Web development and ML concepts
+🧠 Interested in CAE, 3D printing, DFM
 
-📫 How to reach me - joshi.nikhil15@outlook.com
+📫 How to reach me - njoshi23@asu.edu
 
 
 
