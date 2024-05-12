@@ -9,6 +9,7 @@ I'm a Mechanical Engineer, recently gradauated with a Masters in mechanical engi
 Having completed my undergraduate and graduate studies in mechanical engineering, I have strong technical skills in engineering and statistics. 
 
 As an engineering major I am interested in computer aided designing and manufacturing processes. As such I have completed a large amount of relevant coursework, worked on numerous different projects related to design and finite element analysis.
+Below you will find some insight into some of my past projects in my engineering journey.
 
 
 👩‍💻 I'm currently looking for full time entry-level opportunities 
