@@ -16,7 +16,7 @@ Below you will find some insight into some of my past projects in my engineering
 
 🧠 Interested in CAE, 3D printing, DFM
 
-📫 How to reach me - njoshi23@asu.edu
+📫 How to reach me - joshi.nikhil15@outlook.com
 
 
 
